@@ -11,4 +11,4 @@
 - **_This will be a quick tutorial so lets get started on it._**
 
 **_Lesson Objectives:_**
-Create a simple windows forms application that reads URLS from a text file
+Create a simple windows forms application that reads URLS from a text file.
