@@ -10,4 +10,4 @@
   
 - **_This will be a quick tutorial so lets get started on it._**
 
-_Lesson Objectives:_
+**_Lesson Objectives:_**
