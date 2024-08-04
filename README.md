@@ -9,3 +9,4 @@
 - **_In this tutorial we will show you how to load an image directly from a URL and not only that we will have 50 different images link in a text file which will then be fed into the program and load each of them with a click of a button._**
   
 - **_This will be a quick tutorial so lets get started on it._**
+Lesson Objectives
