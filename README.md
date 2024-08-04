@@ -13,4 +13,4 @@
 **_Lesson Objectives:_**
 
 - Create a simple windows forms application that reads URLS from a text file.
-Load each URL from the text file to a picture box
+- Load each URL from the text file to a picture box
