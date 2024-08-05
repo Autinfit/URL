@@ -59,6 +59,7 @@
             button1.TabIndex = 2;
             button1.Text = "Modificar";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += EventoCambiarImagen;
             // 
             // Form1
             // 
