@@ -2,7 +2,7 @@
 
 ## **_C# Tutorial – How to load images from URL to a Picture Box_**
 
-- **_In this tutorial we will show you how to load images from an URL to a picture box in Windows Forms._**
+- **_In this tutorial we will show you how to load images from an URL to a Picture box in Windows Forms._**
   
 - **_So on many of our tutorials we have loaded pictures to a picture box using local resources that were either loaded externally using file/directory location or embedded into the visual studio resources file._**
   
