@@ -15,4 +15,5 @@
 - **_Create a simple windows forms application that reads URLS from a text file._**
   
 - Load each URL from the text file to a picture box.
+  
 - Navigate those pictures using array indexes.
