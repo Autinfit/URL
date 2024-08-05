@@ -16,4 +16,4 @@
   
 - **_Load each URL from the text file to a picture-box._**
   
-- Navigate those pictures using array indexes.
+- _Navigate those pictures using array indexes._
