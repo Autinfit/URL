@@ -22,4 +22,4 @@
 
 **_En este tutorial le mostraremos cómo cargar imágenes desde una URL a un cuadro de imagen en Windows Forms._**
 
-**_Objetivos de la lección:_**
+### **_Objetivos de la lección:_**
