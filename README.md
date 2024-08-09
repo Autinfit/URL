@@ -18,4 +18,4 @@
   
 - **_Navigate those pictures using array indexes._**
 
-_Traducido del español:_
+**_Traducido del español:_**
