@@ -19,3 +19,4 @@
 - **_Navigate those pictures using array indexes._**
 
 **_Traducido del español:_**
+En este tutorial le mostraremos cómo cargar imágenes desde una URL a un cuadro de imagen en Windows Forms.
