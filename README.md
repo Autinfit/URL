@@ -28,4 +28,4 @@
   
 - **_Cargue cada URL del archivo de texto en un cuadro de imagen._**
   
-- _Navega por esas imágenes usando índices de matriz_
+- _Navega por esas imágenes usando índices de matriz._
