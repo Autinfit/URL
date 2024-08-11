@@ -24,6 +24,6 @@
 
 ### **_Objetivos de la lección:_**
 
-Cree una aplicación sencilla de formularios de Windows que lea URL de un archivo de texto
+- Cree una aplicación sencilla de formularios de Windows que lea URL de un archivo de texto
 Cargue cada URL del archivo de texto en un cuadro de imagen
 Navega por esas imágenes usando índices de matriz
