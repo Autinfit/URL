@@ -26,7 +26,7 @@
 
 - **_En este tutorial le mostraremos cómo cargar una imagen directamente desde una URL y no sólo eso, tendremos un enlace de 50 imágenes diferentes en un archivo de texto que luego se introducirá en el programa y cargará cada una de ellas con solo hacer clic en un botón._**
 
-- Este será un tutorial rápido, así que comencemos con él.
+- _Este será un tutorial rápido, así que comencemos con él._
 
 ### **_Objetivos de la lección:_**
 
