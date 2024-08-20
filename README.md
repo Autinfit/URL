@@ -22,7 +22,7 @@
 
 - **_En este tutorial le mostraremos cómo cargar imágenes desde una URL a un cuadro de imagen en Windows Forms._**
   
-Entonces, en muchos de nuestros tutoriales hemos cargado imágenes en un cuadro de imagen usando recursos locales que se cargaron externamente usando la ubicación del archivo/directorio o se incrustaron en el archivo de recursos de Visual Studio.
+- Entonces, en muchos de nuestros tutoriales hemos cargado imágenes en un cuadro de imagen usando recursos locales que se cargaron externamente usando la ubicación del archivo/directorio o se incrustaron en el archivo de recursos de Visual Studio.
 
 En este tutorial le mostraremos cómo cargar una imagen directamente desde una URL y no solo eso, tendremos un enlace de 50 imágenes diferentes en un archivo de texto que luego se introducirá en el programa y cargará cada una de ellas con solo hacer clic en un botón. .
 
