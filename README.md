@@ -28,7 +28,7 @@
 
 - **_Este será un tutorial rápido, así que comencemos con él._**
 
-### **_Objetivos de la lección:_**
+### **_Objetivos de esta lección:_**
 
 - **_Cree una aplicación sencilla de formularios de Windows que lea URL de un archivo de texto._**
   
