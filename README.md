@@ -32,6 +32,6 @@
 
 - **_Crear una aplicación sencilla de formularios de Windows para que lea cada URL desde un archivo de texto._**
   
-- **_Cargue cada URL del archivo de texto en un cuadro de imagen._**
+- **_Cargue cada URL del mismo archivo de texto en un cuadro de imagen._**
   
 - **_Navega por esas imágenes usando índices de matriz._**
