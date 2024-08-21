@@ -30,7 +30,7 @@
 
 ### **_Objetivos de esta lección:_**
 
-- **_Crear una aplicación sencilla de formularios de Windows que lea URL de un archivo de texto._**
+- **_Crear una aplicación sencilla de formularios de Windows para que lea URL de un archivo de texto._**
   
 - **_Cargue cada URL del archivo de texto en un cuadro de imagen._**
   
