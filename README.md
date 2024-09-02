@@ -22,7 +22,7 @@
 
 # **_URL_**
 
-## _Tutorial de C#: cómo cargar imágenes desde una URL a un cuadro de imagen_
+## **_Tutorial de C#: cómo cargar imágenes desde una URL a un cuadro de imagen_**
 
 - **_En este tutorial le mostraremos cómo cargar imágenes desde una URL a un cuadro de imagen en Windows Forms._**
   
