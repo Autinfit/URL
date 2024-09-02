@@ -20,7 +20,7 @@
 
 **_Traducido del español:_**
 
-# URL
+# _URL_
 
 - **_En este tutorial le mostraremos cómo cargar imágenes desde una URL a un cuadro de imagen en Windows Forms._**
   
