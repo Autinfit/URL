@@ -38,4 +38,4 @@
   
 - **_Cargue cada URL del mismo archivo de texto en un cuadro de imagen._**
   
-- **_Navega por esas imágenes usando índices de matriz._**
+- **_Navega por esas imágenes usando índices de una matriz._**
