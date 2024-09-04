@@ -28,7 +28,7 @@
   
 - **_Entonces, en muchos de nuestros tutoriales hemos cargado imágenes dentro de un cuadro de imagen utilizando recursos locales que se cargaron externamente usando la ubicación del archivo/directorio o se incrustaron en el archivo de recursos de Visual Studio._**
 
-- **_En este tutorial le mostraremos a cómo cargar una imagen directamente desde una URL y no sólo eso, tendremos un enlace de 50 imágenes diferentes mediante un archivo de texto que luego se introducirá en un programa y cargará cada una de ellas con solo hacer clic en un botón._**
+- **_En este tutorial le mostraremos a cómo cargar una imagen directamente desde una URL y no sólo eso, tendremos un enlace de 50 imágenes diferentes mediante un archivo de texto que luego se introducirá en un programa y cargará cada una de ellas con sólo hacer clic en un botón._**
 
 - **_Éste será un tutorial rápido, así que comencemos con él._**
 
